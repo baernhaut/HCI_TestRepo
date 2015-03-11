@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CurrencyCalc</string>
+
+    <string name="hello_world">CurrencyCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount">Amount. e.g. 100</string>
+    <string name="send">Calculate that stuff!</string>
+
+    <string-array name="spinner_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>NOK</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HUF</item>
+        <item>SGD</item>
+
+
+    </string-array>
+</resources>
